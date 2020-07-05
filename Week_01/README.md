@@ -2,7 +2,7 @@
 
 #### 1. queue 是 Java.util 中的一个泛型接口 interface Queue  <E>
 
-其父接口为Collection <E>,Iterable <E>,子接口为BlockingDeque <E>,BlockingQueue <E>,Deque <E>,TransferQueue <E>以及众多的实现类如ArrayQueue ,PriorityQueue,ConcurrentLinkedQueue LinkedList 等，有6个抽象方法
+其父接口为Collection <E>,Iterable <E>,子接口为BlockingDeque <E>,BlockingQueue <E>,Deque <E>,TransferQueue <E>以及众多的实现类如ArrayQueue ,PriorityQueue,ConcurrentLinkedQueue LinkedList 等，有6个抽象方法。
 
 ```Java
 package java.util;
